@@ -251,6 +251,21 @@ html {
     }
 
 
+@media only screen and (max-width: 767px) {
+   
+    .card {
+        width: 100%;
+    }
+    
+  
+    .row {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+
+
+
 
 
 
